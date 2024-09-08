@@ -7,16 +7,17 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-# PROJETO-APLICADO-III- PROJETO CAIPORAS-'s 🚀 
+# PROJETO-APLICADO-III- PROJETO CAIPORA-'s 🚀 
  PROJETO APLICADO III - CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 2º SEMESTRE 
 
-# APRESENTAÇÃO NO YOUTUBE
 
-
-# APRESENTAÇÃO
+# Apresentação
 > Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado III, do Curso de Tecnologia em Ciência de Dados. Realizado no 2º Semestre de 2024. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma tendencia que envolve o a oferta de produto sustentável e a aquisição pelo consumidor, e para tanto será tratado a abordagem do sistema de recomendação.
 
-## AJUSTES E MELHORIAS
+### Apresentação no Youtube
+- 
+
+## Ajustes e Melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
@@ -24,7 +25,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - Este projeto visa desenvolver um sistema de recomendação que ajude consumidores a identificar e adquirir produtos sustentáveis. O sistema será baseado em critérios de sustentabilidade, como certificações ecológicas, materiais reciclados e práticas de produção ética. A metodologia inclui a seleção de uma base de dados relevante, desenvolvimento do modelo de recomendação utilizando algoritmos de filtragem colaborativa e/ou baseada em conteúdo, e validação dos resultados obtidos. O projeto está alinhado com os Objetivos de Desenvolvimento Sustentável (ODS), promovendo o consumo responsável e a sustentabilidade ambiental.
 
-- **Área de Atuação:** Mecado de compra e-comerce.
+- **Área de Atuação:** Mecado de compra e-commerce
 
 - **Apresentação dos Dados:** Os dados serão obtidos em texto e números, a partir do conjunto disponível em...
 
