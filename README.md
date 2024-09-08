@@ -3,7 +3,7 @@
 # Título
 
 <!-- Shields Exemplo, existem N diferentes shield em https://shields.io/ -->
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
+![GitHub last commit](C:\Users\Ana Claudia\OneDrive\Imagens\Pro Apl III\MCK_horizontal_vermelho.jpg)
 ![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/seu-repositorio)
 ![Github repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio)
 ![Github stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=social)
