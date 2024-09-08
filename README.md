@@ -7,19 +7,20 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-# PROJETO-APLICADO-II--Grupo-Cassandra's 🚀 
+# PROJETO-APLICADO-III- PROJETO CAIPORAS-'s 🚀 
  PROJETO APLICADO III - CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 2º SEMESTRE 
 
 # APRESENTAÇÃO NO YOUTUBE
 
+
 # APRESENTAÇÃO
 > Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado III, do Curso de Tecnologia em Ciência de Dados. Realizado no 2º Semestre de 2024. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma tendencia que envolve o a oferta de produto sustentável e a aquisição pelo consumidor, e para tanto será tratado a abordagem do sistema de recomendação.
 
-### Ajustes e melhorias
+## AJUSTES E MELHORIAS
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-## RESUMO
+## Resumo
 
 - Este projeto visa desenvolver um sistema de recomendação que ajude consumidores a identificar e adquirir produtos sustentáveis. O sistema será baseado em critérios de sustentabilidade, como certificações ecológicas, materiais reciclados e práticas de produção ética. A metodologia inclui a seleção de uma base de dados relevante, desenvolvimento do modelo de recomendação utilizando algoritmos de filtragem colaborativa e/ou baseada em conteúdo, e validação dos resultados obtidos. O projeto está alinhado com os Objetivos de Desenvolvimento Sustentável (ODS), promovendo o consumo responsável e a sustentabilidade ambiental.
 
@@ -33,33 +34,30 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 
 ##  Objetivos e Metas
-   #  Objetivos Gerais
+##  Objetivos Gerais
 -  O objetivo deste projeto é desenvolver um sistema de recomendação que ajude os consumidores a encontrarem produtos sustentáveis, promovendo práticas de consumo mais conscientes e alinhadas com os Objetivos de Desenvolvimento Sustentável - ODS -12.
 
 - Metas Específicas
-   - (a) Coletar um conjunto de dados até o final de setembro de 2024.
-   - (b) Realizar o pré-processamento dos dados, incluindo limpeza e normalização, até meados de outubro.
-   - (c) Desenvolver e treinar um modelo inicial para prever tendências de segurança até o final de outubro.
-   - (d) Atingir uma taxa de acurácia mínima de X% na modelagem.
-   - (e) Realizar ajustes no modelo com base nos resultados da avaliação até o inocio de novembro.
-
-e) Implementar o modelo no ambiente de produção até meados de novembro.
-
-f) Preparar uma documentação abrangente do projeto até o final de novembro.
-
-g) Realizar uma apresentação eficaz do projeto até 01 de dezembro, comunicando os resultados e conclusões de maneira clara.
-r
+   - Coletar um conjunto de dados até o final de setembro de 2024.
+   - Realizar o pré-processamento dos dados, incluindo limpeza e normalização, até meados de outubro.
+   - Desenvolver e treinar um modelo inicial para prever tendências de segurança até o final de outubro.
+   - Atingir uma taxa de acurácia mínima de X% na modelagem.
+   - Realizar ajustes no modelo com base nos resultados da avaliação até o inicio de novembro.
+   - Implementar o modelo no ambiente de produção até meados de novembro.
+   - Preparar uma documentação abrangente do projeto até o final de novembro.
+   - Realizar uma apresentação eficaz do projeto até 01 de dezembro, comunicando os resultados e conclusões de maneira clara.
+     
 ## 4. Cronograma de Atividades
 
 | FASE | ATIVIDADE                                       | PRAZO            |
 |------|-------------------------------------------------|------------------|
-| 1    | Coleta de Dados                                 | 25 ago-  31 ago  |
-| 2    | Pré-processamento de Dados                      | 1 set -  14 set  |
-| 3    | Desenvolvimento e Treinamento do Modelo         | 15 set -  25 set |
-| 4    | Avaliação e Ajustes do Modelo                   | 01 out. - 10 out |
-| 5    | Implementação no Ambiente de Produção           | 15 out. - 25 out |
-| 6    | Documentação e Preparação para Apresentação     | 30 out. - 02 nov |
-| 7    | Apresentação do Projeto                         | 25 nov. - 01 dez |
+| 1    | Coleta de Dados                                 | 25 ago-  31 ago. |
+| 2    | Pré-processamento de Dados                      | 1 set -  14 set. |
+| 3    | Desenvolvimento e Treinamento do Modelo         | 15 set - 25 set. |
+| 4    | Avaliação e Ajustes do Modelo                   | 01 out - 10 out. |
+| 5    | Implementação no Ambiente de Produção           | 15 out - 25 out. |
+| 6    | Documentação e Preparação para Apresentação     | 30 out - 02 nov. |
+| 7    | Apresentação do Projeto                         | 25 nov - 01 dez. |
 
 
 ## 💻 Pré-requisitos
@@ -100,7 +98,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#" title="defina o titulo do link">
         <img src="https://divindades.com/wp-content/uploads/2022/12/Deusa-Euphrosyne.webp" width="100px;" alt="Imagem 2"/><br>
         <sub>
-          <b>Maressa Bonassoli</b>
+          <b>--------</b>
         </sub>
       </a>
     </td>
