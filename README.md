@@ -8,7 +8,7 @@
 ![Github repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio)
 ![Github stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=social)
 
-![Capa do Projeto](C:\Users\Ana Claudia\OneDrive\Imagens\Pro Apl III\MCK_horizontal_vermelho.jpg)
+![Capa do Projeto]([C:\Users\Ana Claudia\OneDrive\Imagens\Pro Apl III\MCK_horizontal_vermelho.jpg](https://www.mackenzie.br/))
 
 > Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado III, do Curso de Tecnologia em Ciência de Dados. Realizado no 2º Semestre de 2024. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma tendencia que envolve o a oferta de produto sustentável e a aquisição pelo consumidor, e para tanto será tratado a abordagem do sistema de recomendação.
 
