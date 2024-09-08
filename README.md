@@ -1,5 +1,4 @@
-# CAIPORAS
- PROJETO APLICADO III - CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 2º SEMESTRE 
+ 
 ![Captura de tela 2024-02-18 140936](https://github.com/AnaAleixo/PROJETO-APLICADO-II--Grupo-Cassandra-s/assets/116022964/2f3738a4-3e0e-4d69-8c5e-169993fcdd35)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
@@ -9,62 +8,58 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 # PROJETO-APLICADO-II--Grupo-Cassandra's 🚀 
- PROJETO APLICADO II - CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 1º SEMESTRE - TURMA 03A
+ PROJETO APLICADO III - CURSO TECNOLOGIA EM CIENCIA DE DADOS - ANO 2024 - 2º SEMESTRE 
 
 # APRESENTAÇÃO NO YOUTUBE
-https://youtu.be/u8sK2XY2rqE
 
-> Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado II, do Curso de Tecnologia em Ciência de Dados. Realizado no 1º Semestre de 2024, Turma 03A. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma problemática relevante, neste caso, a análise e prevenção da violência contra a mulher, com recorte no estado de Minas Gerais.
+# APRESENTAÇÃO
+> Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado III, do Curso de Tecnologia em Ciência de Dados. Realizado no 2º Semestre de 2024. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma tendencia que envolve o a oferta de produto sustentável e a aquisição pelo consumidor, e para tanto será tratado a abordagem do sistema de recomendação.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-## Premissas do Projeto
+## RESUMO
 
-- **Empresa:** Instituição de segurança pública, uma ONG ou uma empresa de consultoria especializada em segurança.
+- Este projeto visa desenvolver um sistema de recomendação que ajude consumidores a identificar e adquirir produtos sustentáveis. O sistema será baseado em critérios de sustentabilidade, como certificações ecológicas, materiais reciclados e práticas de produção ética. A metodologia inclui a seleção de uma base de dados relevante, desenvolvimento do modelo de recomendação utilizando algoritmos de filtragem colaborativa e/ou baseada em conteúdo, e validação dos resultados obtidos. O projeto está alinhado com os Objetivos de Desenvolvimento Sustentável (ODS), promovendo o consumo responsável e a sustentabilidade ambiental.
 
-- **Área de Atuação:** Análise de estatísticas de segurança pública com base nos dados do Sistema Nacional de Estatísticas de Segurança Pública - Municípios.
+- **Área de Atuação:** Mecado de compra e-comerce.
 
-- **Apresentação dos Dados:** Os dados serão obtidos em texto e números, a partir do conjunto disponível em [dados.gov.br - Sistema Nacional de Estatísticas de Segurança Pública](https://dados.gov.br/dados/conjuntos-dados/sistema-nacional-de-estatisticas-de-seguranca-publica).
+- **Apresentação dos Dados:** Os dados serão obtidos em texto e números, a partir do conjunto disponível em...
 
   Links adicionais para referência:
-  - [Painel de Dados - MDH](https://www.gov.br/mdh/pt-br/ondh/painel-de-dados)
-  - [Painel de Dados - Segundo Semestre de 2023](https://www.gov.br/mdh/pt-br/ondh/painel-de-dados/segundo-semestre-de-2023)
+  - [Painel de Dados - MDH]()
+  - [Painel de Dados - Segundo Semestre ]()
 
 
 ##  Objetivos e Metas
    #  Objetivos Gerais
-a) Desenvolver um modelo de ciência de dados para análise de segurança pública.
+-  O objetivo deste projeto é desenvolver um sistema de recomendação que ajude os consumidores a encontrarem produtos sustentáveis, promovendo práticas de consumo mais conscientes e alinhadas com os Objetivos de Desenvolvimento Sustentável - ODS -12.
 
-b) Aumentar a eficiência na classificação e análise de dados de segurança pública.
+- Metas Específicas
+   - (a) Coletar um conjunto de dados até o final de setembro de 2024.
+   - (b) Realizar o pré-processamento dos dados, incluindo limpeza e normalização, até meados de outubro.
+   - (c) Desenvolver e treinar um modelo inicial para prever tendências de segurança até o final de outubro.
+   - (d) Atingir uma taxa de acurácia mínima de X% na modelagem.
+   - (e) Realizar ajustes no modelo com base nos resultados da avaliação até o inocio de novembro.
 
-c) Melhorar a precisão das previsões sobre o comportamento de segurança nos municípios.
+e) Implementar o modelo no ambiente de produção até meados de novembro.
 
-d) Metas Específicas
-   - (a) Coletar um conjunto de dados representativo do Sistema Nacional de Estatísticas de Segurança Pública até o final de fevereiro de 2024.
-   - (b) Realizar o pré-processamento dos dados, incluindo limpeza e normalização, até meados de março.
-   - (c) Desenvolver e treinar um modelo inicial para prever tendências de segurança até o final de abril.
-   - (d) Atingir uma taxa de acurácia mínima de X% na previsão de eventos de segurança até meados de maio.
-   - (e) Realizar ajustes no modelo com base nos resultados da avaliação até o final de abril.
+f) Preparar uma documentação abrangente do projeto até o final de novembro.
 
-e) Implementar o modelo no ambiente de produção até meados de maio.
-
-f) Preparar uma documentação abrangente do projeto até o final de maio.
-
-g) Realizar uma apresentação eficaz do projeto até 24 de maio, comunicando os resultados e conclusões de maneira clara.
-
+g) Realizar uma apresentação eficaz do projeto até 01 de dezembro, comunicando os resultados e conclusões de maneira clara.
+r
 ## 4. Cronograma de Atividades
 
 | FASE | ATIVIDADE                                       | PRAZO            |
 |------|-------------------------------------------------|------------------|
-| 1    | Coleta de Dados                                | 8 fev. - 28 fev. |
-| 2    | Pré-processamento de Dados                     | 1 mar - 14 mar   |
-| 3    | Desenvolvimento e Treinamento do Modelo         | 15 mar - 18 abr  |
-| 4    | Avaliação e Ajustes do Modelo                  | 19 abr. - 30 abr |
-| 5    | Implementação no Ambiente de Produção          | 1 mai. - 15 mai. |
-| 6    | Documentação e Preparação para Apresentação    | 16 mai. - 22 mai |
-| 7    | Apresentação do Projeto                        | 23 mai. - 24 mai |
+| 1    | Coleta de Dados                                 | 25 ago-  31 ago  |
+| 2    | Pré-processamento de Dados                      | 1 set -  14 set  |
+| 3    | Desenvolvimento e Treinamento do Modelo         | 15 set -  25 set |
+| 4    | Avaliação e Ajustes do Modelo                   | 01 out. - 10 out |
+| 5    | Implementação no Ambiente de Produção           | 15 out. - 25 out |
+| 6    | Documentação e Preparação para Apresentação     | 30 out. - 02 nov |
+| 7    | Apresentação do Projeto                         | 25 nov. - 01 dez |
 
 
 ## 💻 Pré-requisitos
@@ -75,7 +70,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 - Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
-## 📫 Contribuindo para Grupo-Cassandra's
+## 📫 Contribuindo para Projeto Caiporas
 
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
@@ -120,7 +115,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 😄 Seja um dos contribuidores
+## 😄 Seja um dos colaboradores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
