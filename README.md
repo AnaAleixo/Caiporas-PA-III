@@ -12,19 +12,16 @@
 
 > Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado III, do Curso de Tecnologia em Ciência de Dados. Realizado no 2º Semestre de 2024. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma tendencia que envolve o a oferta de produto sustentável e a aquisição pelo consumidor, e para tanto será tratado a abordagem do sistema de recomendação.
 
-## Pré-requisitos
+## Resumo
+    Este projeto visa desenvolver um sistema de recomendação que ajude consumidores a identificar e adquirir produtos sustentáveis. O sistema será baseado em critérios de sustentabilidade, como certificações ecológicas, materiais reciclados e práticas de produção ética. A metodologia inclui a seleção de uma base de dados relevante, desenvolvimento do modelo de recomendação utilizando algoritmos de filtragem colaborativa e/ou baseada em conteúdo, e validação dos resultados obtidos. O projeto está alinhado com os Objetivos de Desenvolvimento Sustentável (ODS), promovendo o consumo responsável e a sustentabilidade ambiental.
 
-Antes de executar o projeto, certifique-se de ter as seguintes dependências instaladas:
 
-- Antes de começar, verifique se você possui o `Tecnologia X` instalado em sua máquina. Se não tiver, você pode baixar o `Tecnologia X` [aqui](https://exemplo_de_link.com).
+## Introdução
 
-## Como executar o projeto
+A crescente preocupação com a sustentabilidade e a preservação ambiental tem levado consumidores a buscar produtos que causem menos impacto ao meio ambiente. No entanto, identificar esses produtos nem sempre é uma tarefa fácil, devido à variedade de opções disponíveis no mercado e à falta de informações claras.
+O objetivo deste projeto é desenvolver um sistema de recomendação que ajude os consumidores a encontrarem produtos sustentáveis, promovendo práticas de consumo mais conscientes e alinhadas com os Objetivos de Desenvolvimento Sustentável (ODS).
+A escolha do tema foi motivada pela importância crescente da sustentabilidade no comportamento de consumo e pela necessidade de ferramentas que facilitem a tomada de decisão dos consumidores. Além disso, o projeto é relevante tanto pessoal quanto profissionalmente para os integrantes do grupo, pois permite a aplicação prática de conhecimentos sobre sistemas de recomendação e sustentabilidade.
 
-Siga as etapas abaixo para executar o projeto em sua máquina local:
-
-Execute os seguintes comandos a partir da pasta raiz do projeto:
-
-<!-- Aqui é tudo exemplo, só trocar -->
 
 ### Clone este repositório
 
