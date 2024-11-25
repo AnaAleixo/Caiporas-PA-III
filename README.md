@@ -12,31 +12,31 @@
 
 
 # Apresentação
-> Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado III, do Curso de Tecnologia em Ciência de Dados. Realizado no 2º Semestre de 2024. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma tendencia que envolve o a oferta de produto sustentável e a aquisição pelo consumidor, e para tanto será tratado a abordagem do sistema de recomendação.
+> Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado III, do Curso de Tecnologia em Ciência de Dados. Realizado no 2º Semestre de 2024. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma tendencia que envolve o a oferta de livros e a aquisição pelo consumidor, e para tanto será tratado a abordagem do sistema de recomendação.
 
 ### Apresentação no Youtube
 - 
 
 ## Ajustes e Melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto foi desenvolvido ao longo do 2º semestre de 2024. Foram seguidas entre outras as seguintes etapas/tarefas:
 
 ## Resumo
 
-- Este projeto visa desenvolver um sistema de recomendação que ajude consumidores a identificar e adquirir produtos sustentáveis. O sistema será baseado em critérios de sustentabilidade, como certificações ecológicas, materiais reciclados e práticas de produção ética. A metodologia inclui a seleção de uma base de dados relevante, desenvolvimento do modelo de recomendação utilizando algoritmos de filtragem colaborativa e/ou baseada em conteúdo, e validação dos resultados obtidos. O projeto está alinhado com os Objetivos de Desenvolvimento Sustentável (ODS), promovendo o consumo responsável e a sustentabilidade ambiental.
+- Na era digital atual, a quantidade de informações disponíveis online está crescendo exponencialmente, tornando cada vez mais difícil para os usuários encontrarem conteúdo relevante de acordo com seus interesses. Este projeto visa desenvolver um sistema de recomendação que ajude consumidores a identificar e adquirir produtos. O propósito principal é desenvolver e implementar um sistema de recomendação de livros utilizando o modelo matemático de SVD, com o intuito de oferecer recomendações personalizadas aos usuários de uma plataforma de e-commerce de livros, com o objetivo de: i) analisar e preparar um conjunto de dados de avaliações de livros, ii) implementar o algoritmo de SVD para modelar as preferências dos usuários e as características dos livros, iii) avaliar a eficácia do sistema por meio de métricas de precisão, como o erro quadrático médio (RMSE).
 
 - **Área de Atuação:** Mecado de compra e-commerce
 
-- **Apresentação dos Dados:** Os dados serão obtidos em texto e números, a partir do conjunto disponível em...
+- **Apresentação dos Dados:** Os dados serão obtidos em texto e números, a partir do conjunto disponível em: https://www.kaggle.com/datasets/somnambwl/bookcrossing-dataset.
 
   Links adicionais para referência:
-  - [Painel de Dados - MDH]()
+  - [Painel de Dados - [MDH]()](https://github.com/AnaAleixo/Caiporas-PA-III.git)
   - [Painel de Dados - Segundo Semestre ]()
 
 
 ##  Objetivos e Metas
 ##  Objetivos Gerais
--  O objetivo deste projeto é desenvolver um sistema de recomendação que ajude os consumidores a encontrarem produtos sustentáveis, promovendo práticas de consumo mais conscientes e alinhadas com os Objetivos de Desenvolvimento Sustentável - ODS -12.
+-  O objetivo deste projeto é desenvolver um sistema de recomendação é melhorar a experiência de compra e que seja possível não apenas fortalecer a fidelidade do cliente, mas também ampliar as vendas por meio de sugestões estrategicamente alinhadas aos interesses dos consumidores e aos Objetivos de Desenvolvimento Sustentável - ODS -12.
 
 - Metas Específicas
    - Coletar um conjunto de dados até o final de setembro de 2024.
@@ -58,7 +58,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 | 4    | Avaliação e Ajustes do Modelo                   | 01 out - 10 out. |
 | 5    | Implementação no Ambiente de Produção           | 15 out - 25 out. |
 | 6    | Documentação e Preparação para Apresentação     | 30 out - 02 nov. |
-| 7    | Apresentação do Projeto                         | 25 nov - 01 dez. |
+| 7    | Apresentação do Projeto                         | 03 nov - 01 dez. |
 
 
 ## 💻 Pré-requisitos
