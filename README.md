@@ -97,9 +97,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://divindades.com/wp-content/uploads/2022/12/Deusa-Euphrosyne.webp" width="100px;" alt="Imagem 2"/><br>
+        <img src="x;" alt=""/><br>
         <sub>
-          <b>--------</b>
+          <b>Gustavo Zarpelão</b>
         </sub>
       </a>
     </td>
@@ -108,6 +108,15 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://static.wixstatic.com/media/bd1747_5cc1b2fb9c5545df99ae08371141cf88~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.jpg" width="100px;" alt="Imagem 3"/><br>
         <sub>
           <b>Ana Chung ti Kam</b>
+        </sub>
+      </a>
+    </td>
+   <tr>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="x;" alt=""/><br>
+        <sub>
+          <b> Eduardo David </b>
         </sub>
       </a>
     </td>
