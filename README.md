@@ -15,7 +15,7 @@
 > Este projeto faz parte dos requisitos da atividade de conclusão da disciplina de Projeto Aplicado III, do Curso de Tecnologia em Ciência de Dados. Realizado no 2º Semestre de 2024. O objetivo é aplicar os conhecimentos adquiridos ao longo do curso para abordar uma tendencia que envolve o a oferta de livros e a aquisição pelo consumidor, e para tanto será tratado a abordagem do sistema de recomendação.
 
 ### Apresentação no Youtube
-- 
+- https://youtu.be/DcE_mQyyeT8?si=mV1uwBmBk-YwFHLw
 
 ## Ajustes e Melhorias
 
